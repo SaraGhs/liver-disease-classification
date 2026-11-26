@@ -1,0 +1,16 @@
+{
+  "source_page": "https://archive.ics.uci.edu/dataset/225/ilpd",
+  "download_url": "https://archive.ics.uci.edu/static/public/225/ilpd+indian+liver+patient+dataset.zip",
+  "doi": "10.24432/C5D02C",
+  "license": "CC BY 4.0",
+  "archive_sha256": "60e18fbfe7f84daf58c178ea280ba5fe8db7e2507aabce01b57425b3b822cf0b",
+  "csv_sha256": "84feac16488de5cf89bd22bd802c77f25841fe93e9ddd32355683e94d46c3425",
+  "retrieved_at_utc": "2026-11-25T21:36:53.773402+00:00",
+  "raw_rows": 583,
+  "raw_columns": 11,
+  "target_mapping": {
+    "1": "liver disease",
+    "2": "no liver disease"
+  },
+  "citation": "Ramana, B. & Venkateswarlu, N. ILPD (Indian Liver Patient Dataset). UCI Machine Learning Repository."
+}

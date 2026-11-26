@@ -1,0 +1,4 @@
+model,cv_balanced_accuracy,cv_std,settings
+Logistic regression,0.7075487012987013,0.021569681731647302,"{""model__C"": 0.1, ""model__class_weight"": ""balanced""}"
+SVM,0.7008026695526697,0.004811429437696049,"{""model__C"": 10, ""model__class_weight"": ""balanced"", ""model__gamma"": 0.01}"
+Majority baseline,0.5,0.0,{}

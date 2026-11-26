@@ -1,0 +1,21 @@
+{
+  "raw_rows": 583,
+  "deduplicated_rows": 570,
+  "exact_duplicate_rows_removed": 13,
+  "training_rows": 456,
+  "test_rows": 114,
+  "training_target_counts": {
+    "1": 328,
+    "0": 128
+  },
+  "test_target_counts": {
+    "1": 78,
+    "0": 36
+  },
+  "feature_count": 10,
+  "seed": 42,
+  "split": "first fold of shuffled 5-fold StratifiedGroupKFold",
+  "grouping": "exact feature-row hashes; no verified patient IDs",
+  "positive_class": "liver disease (original Selector=1)",
+  "duplicate_feature_groups_across_partitions": 0
+}

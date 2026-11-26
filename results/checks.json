@@ -1,0 +1,9 @@
+{
+  "target_excluded": true,
+  "no_feature_group_overlap": true,
+  "model_reload_predictions_identical": true,
+  "selected_by_training_cv": "Logistic regression",
+  "training_rows": 456,
+  "test_rows": 114,
+  "evaluation_run_utc": "2026-11-25T21:37:38.091408+00:00"
+}
